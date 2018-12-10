@@ -31,3 +31,5 @@ kSecondsPerDay        // Do not use Hungarian notation.
 ```
 <Button onClick={this.onClick}>Click Me</Button>
 ```
+
+Internal state error object usage
